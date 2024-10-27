@@ -12,7 +12,13 @@ https://drive.google.com/file/d/1dFyztx5X7r1vFpvLcpbtCZGlPx_VEeRn/view?usp=drive
     2.1 Creación de registros
     2.2 Actualización de productos.
 1.1 Listados
-<img src="https://drive.google.com/file/d/1qnY8n7R3jgrz7-wMM4zavESQ3_fpH_Wy/view?usp=sharing"/>
+
+ <img
+      class="user-photo"
+      src="https://drive.google.com/file/d/1qnY8n7R3jgrz7-wMM4zavESQ3_fpH_Wy/view?usp=sharing"
+      alt="Photo of creator"
+    />
+
 1.2 Listados
 
 2.1 Listados
