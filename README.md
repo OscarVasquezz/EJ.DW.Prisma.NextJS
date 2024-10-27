@@ -4,14 +4,14 @@ https://drive.google.com/file/d/1dFyztx5X7r1vFpvLcpbtCZGlPx_VEeRn/view?usp=drive
 ## Requerimiento
 1 Consultas:
 
-    1.1 Listados, https://drive.google.com/file/d/1qnY8n7R3jgrz7-wMM4zavESQ3_fpH_Wy/view?usp=sharing
+    1.1 Listados,
     1.2 Búsqueda por código
 
 2 Mantenimiento:
 
     2.1 Creación de registros
     2.2 Actualización de productos.
-
+Screens de pruevas: https://drive.google.com/drive/folders/1dP_Vvm7h4lvkUI32yucA5_h479X3u77C?usp=drive_link
 ## Getting Started
 
 First, run the development server:
