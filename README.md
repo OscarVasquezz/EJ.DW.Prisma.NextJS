@@ -1,4 +1,23 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Video de Pruebas
+https://drive.google.com/file/d/1dFyztx5X7r1vFpvLcpbtCZGlPx_VEeRn/view?usp=drive_link
+## Requerimiento
+1 Consultas:
+
+    1.1 Listados,
+    1.2 Búsqueda por código
+
+2 Mantenimiento:
+
+    2.1 Creación de registros
+    2.2 Actualización de productos.
+1.1 Listados
+<img src="[./image-avatar.png](https://drive.google.com/file/d/1qnY8n7R3jgrz7-wMM4zavESQ3_fpH_Wy/view?usp=drive_link)"/>
+1.2 Listados
+
+2.1 Listados
+
+2.2 Listados
 
 ## Getting Started
 
